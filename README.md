@@ -126,6 +126,12 @@ It should not be used as the sole security measure in production systems.
 
 ---
 
+## 👨‍💻 Contributors
+- Om Makwana
+- Krishna Hadiya
+
+---
+
 ## ⭐ Support
 
 If you like this project:
