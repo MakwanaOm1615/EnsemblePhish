@@ -70,7 +70,6 @@ EnsemblePhish/
 │── dataset.csv
 │── requirements.txt
 │── README.md
-│── assets/
 ```
 
 ---
@@ -109,12 +108,6 @@ streamlit run app.py
 
 ---
 
-## 📸 Screenshots (Add Your Own)
-
-```
-Add screenshots in /assets folder and link here
-```
-
 ---
 
 ## 🔥 Key Highlights
@@ -130,15 +123,6 @@ Add screenshots in /assets folder and link here
 
 This project is built for **educational and research purposes only**.
 It should not be used as the sole security measure in production systems.
-
----
-
-## 👨‍💻 Author
-
-**Om Makwana**
-
-* Full Stack Developer
-* Interested in AI/ML
 
 ---
 
